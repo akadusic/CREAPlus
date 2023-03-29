@@ -1,0 +1,1 @@
+/usr/bin/clang++ -std=c++17 -rdynamic CMakeFiles/creaplustask.dir/src/Main.cpp.o -o creaplustask  src/libMainLibrary.a -lssl -lcrypto 

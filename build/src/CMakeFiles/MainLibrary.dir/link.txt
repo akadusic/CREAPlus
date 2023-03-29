@@ -1,0 +1,2 @@
+/usr/bin/llvm-ar qc libMainLibrary.a CMakeFiles/MainLibrary.dir/Main.cpp.o CMakeFiles/MainLibrary.dir/GuardedQueue.cpp.o
+/usr/bin/llvm-ranlib libMainLibrary.a
