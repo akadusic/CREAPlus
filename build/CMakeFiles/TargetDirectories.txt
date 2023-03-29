@@ -1,6 +1,0 @@
-/home/asmir/creaplustask/build/CMakeFiles/creaplustask.dir
-/home/asmir/creaplustask/build/CMakeFiles/edit_cache.dir
-/home/asmir/creaplustask/build/CMakeFiles/rebuild_cache.dir
-/home/asmir/creaplustask/build/src/CMakeFiles/MainLibrary.dir
-/home/asmir/creaplustask/build/src/CMakeFiles/edit_cache.dir
-/home/asmir/creaplustask/build/src/CMakeFiles/rebuild_cache.dir
